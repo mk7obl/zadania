@@ -1,0 +1,7 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zad41\zad41\obj\Debug\zad41.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zad41\zad41\obj\Debug\zad41.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zad41\zad41\bin\Debug\zad41.exe.config
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zad41\zad41\bin\Debug\zad41.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zad41\zad41\bin\Debug\zad41.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zad41\zad41\obj\Debug\zad41.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zad41\zad41\obj\Debug\zad41.pdb

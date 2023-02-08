@@ -1,0 +1,6 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie47\zadanie47\bin\Debug\zadanie47.exe.config
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie47\zadanie47\bin\Debug\zadanie47.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie47\zadanie47\bin\Debug\zadanie47.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie47\zadanie47\obj\Debug\zadanie47.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie47\zadanie47\obj\Debug\zadanie47.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie47\zadanie47\obj\Debug\zadanie47.pdb
