@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\bin\Debug\net6.0\2170. Array Alternating.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\bin\Debug\net6.0\2170. Array Alternating.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\bin\Debug\net6.0\2170. Array Alternating.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\bin\Debug\net6.0\2170. Array Alternating.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\bin\Debug\net6.0\2170. Array Alternating.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\2170. Array Alternating.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\2170. Array Alternating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\2170. Array Alternating.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\2170. Array Alternating.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\2170. Array Alternating.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\2170. Array Alternating.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\refint\2170. Array Alternating.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\2170. Array Alternating.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\2170. Array Alternating.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170. Array Alternating\obj\Debug\net6.0\ref\2170. Array Alternating.dll
