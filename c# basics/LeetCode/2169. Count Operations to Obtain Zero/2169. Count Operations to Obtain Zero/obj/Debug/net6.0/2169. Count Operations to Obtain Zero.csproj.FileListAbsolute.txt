@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\bin\Debug\net6.0\2169. Count Operations to Obtain Zero.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\bin\Debug\net6.0\2169. Count Operations to Obtain Zero.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\bin\Debug\net6.0\2169. Count Operations to Obtain Zero.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\bin\Debug\net6.0\2169. Count Operations to Obtain Zero.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\bin\Debug\net6.0\2169. Count Operations to Obtain Zero.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\2169. Count Operations to Obtain Zero.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\2169. Count Operations to Obtain Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\2169. Count Operations to Obtain Zero.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\2169. Count Operations to Obtain Zero.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\2169. Count Operations to Obtain Zero.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\2169. Count Operations to Obtain Zero.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\refint\2169. Count Operations to Obtain Zero.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\2169. Count Operations to Obtain Zero.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\2169. Count Operations to Obtain Zero.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2169. Count Operations to Obtain Zero\2169. Count Operations to Obtain Zero\obj\Debug\net6.0\ref\2169. Count Operations to Obtain Zero.dll
