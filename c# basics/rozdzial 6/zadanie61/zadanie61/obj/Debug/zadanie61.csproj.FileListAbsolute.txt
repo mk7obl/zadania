@@ -1,7 +1,0 @@
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie61\zadanie61\bin\Debug\zadanie61.exe.config
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie61\zadanie61\bin\Debug\zadanie61.exe
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie61\zadanie61\bin\Debug\zadanie61.pdb
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie61\zadanie61\obj\Debug\zadanie61.csproj.AssemblyReference.cache
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie61\zadanie61\obj\Debug\zadanie61.csproj.CoreCompileInputs.cache
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie61\zadanie61\obj\Debug\zadanie61.exe
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie61\zadanie61\obj\Debug\zadanie61.pdb

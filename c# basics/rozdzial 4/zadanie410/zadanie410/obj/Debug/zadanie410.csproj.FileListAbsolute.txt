@@ -1,7 +1,0 @@
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie410\zadanie410\bin\Debug\zadanie410.exe.config
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie410\zadanie410\bin\Debug\zadanie410.exe
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie410\zadanie410\bin\Debug\zadanie410.pdb
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie410\zadanie410\obj\Debug\zadanie410.csproj.AssemblyReference.cache
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie410\zadanie410\obj\Debug\zadanie410.csproj.CoreCompileInputs.cache
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie410\zadanie410\obj\Debug\zadanie410.exe
-C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie410\zadanie410\obj\Debug\zadanie410.pdb
