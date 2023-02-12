@@ -1,0 +1,7 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie44\zadanie44\bin\Debug\zadanie44.exe.config
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie44\zadanie44\bin\Debug\zadanie44.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie44\zadanie44\bin\Debug\zadanie44.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie44\zadanie44\obj\Debug\zadanie44.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie44\zadanie44\obj\Debug\zadanie44.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie44\zadanie44\obj\Debug\zadanie44.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 4\zadanie44\zadanie44\obj\Debug\zadanie44.pdb

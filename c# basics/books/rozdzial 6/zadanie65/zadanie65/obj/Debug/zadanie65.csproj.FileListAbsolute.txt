@@ -1,0 +1,7 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie65\zadanie65\bin\Debug\zadanie65.exe.config
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie65\zadanie65\bin\Debug\zadanie65.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie65\zadanie65\bin\Debug\zadanie65.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie65\zadanie65\obj\Debug\zadanie65.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie65\zadanie65\obj\Debug\zadanie65.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie65\zadanie65\obj\Debug\zadanie65.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie65\zadanie65\obj\Debug\zadanie65.pdb

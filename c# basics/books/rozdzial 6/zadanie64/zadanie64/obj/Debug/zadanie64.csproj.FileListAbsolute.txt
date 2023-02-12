@@ -1,0 +1,7 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie64\zadanie64\bin\Debug\zadanie64.exe.config
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie64\zadanie64\bin\Debug\zadanie64.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie64\zadanie64\bin\Debug\zadanie64.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie64\zadanie64\obj\Debug\zadanie64.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie64\zadanie64\obj\Debug\zadanie64.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie64\zadanie64\obj\Debug\zadanie64.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie64\zadanie64\obj\Debug\zadanie64.pdb

@@ -1,0 +1,7 @@
+C:\Users\mariu\source\repos\zadanie414\zadanie414\obj\Debug\zadanie414.csproj.AssemblyReference.cache
+C:\Users\mariu\source\repos\zadanie414\zadanie414\obj\Debug\zadanie414.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\zadanie414\zadanie414\bin\Debug\zadanie414.exe.config
+C:\Users\mariu\source\repos\zadanie414\zadanie414\bin\Debug\zadanie414.exe
+C:\Users\mariu\source\repos\zadanie414\zadanie414\bin\Debug\zadanie414.pdb
+C:\Users\mariu\source\repos\zadanie414\zadanie414\obj\Debug\zadanie414.exe
+C:\Users\mariu\source\repos\zadanie414\zadanie414\obj\Debug\zadanie414.pdb

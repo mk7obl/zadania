@@ -1,0 +1,7 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie69a\zadanie69a\bin\Debug\zadanie69a.exe.config
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie69a\zadanie69a\bin\Debug\zadanie69a.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie69a\zadanie69a\bin\Debug\zadanie69a.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie69a\zadanie69a\obj\Debug\zadanie69a.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie69a\zadanie69a\obj\Debug\zadanie69a.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie69a\zadanie69a\obj\Debug\zadanie69a.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\rozdzial 6\zadanie69a\zadanie69a\obj\Debug\zadanie69a.pdb
