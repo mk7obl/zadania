@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\bin\Debug\net6.0\704. Binary search.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\bin\Debug\net6.0\704. Binary search.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\bin\Debug\net6.0\704. Binary search.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\bin\Debug\net6.0\704. Binary search.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\bin\Debug\net6.0\704. Binary search.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\704. Binary search.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\704. Binary search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\704. Binary search.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\704. Binary search.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\704. Binary search.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\704. Binary search.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\refint\704. Binary search.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\704. Binary search.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\704. Binary search.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\Algorithms I\704. Binary search\obj\Debug\net6.0\ref\704. Binary search.dll
