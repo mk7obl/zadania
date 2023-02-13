@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\bin\Debug\net6.0\2170.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\bin\Debug\net6.0\2170.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\bin\Debug\net6.0\2170.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\bin\Debug\net6.0\2170.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\bin\Debug\net6.0\2170.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\2170.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\2170.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\2170.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\2170.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\2170.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\2170.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\refint\2170.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\2170.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\2170.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2170\obj\Debug\net6.0\ref\2170.dll

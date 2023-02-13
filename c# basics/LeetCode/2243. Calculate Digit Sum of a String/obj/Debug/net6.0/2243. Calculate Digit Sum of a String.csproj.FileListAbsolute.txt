@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\bin\Debug\net6.0\2243. Calculate Digit Sum of a String.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\bin\Debug\net6.0\2243. Calculate Digit Sum of a String.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\bin\Debug\net6.0\2243. Calculate Digit Sum of a String.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\bin\Debug\net6.0\2243. Calculate Digit Sum of a String.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\bin\Debug\net6.0\2243. Calculate Digit Sum of a String.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\2243. Calculate Digit Sum of a String.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\2243. Calculate Digit Sum of a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\2243. Calculate Digit Sum of a String.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\2243. Calculate Digit Sum of a String.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\2243. Calculate Digit Sum of a String.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\2243. Calculate Digit Sum of a String.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\refint\2243. Calculate Digit Sum of a String.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\2243. Calculate Digit Sum of a String.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\2243. Calculate Digit Sum of a String.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2243. Calculate Digit Sum of a String\obj\Debug\net6.0\ref\2243. Calculate Digit Sum of a String.dll
