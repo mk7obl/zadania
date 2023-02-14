@@ -1,4 +1,4 @@
-﻿
+﻿// works but with not satysfying runtime;
 int sum = 0;
 int[] results = new int[2];
 
@@ -7,8 +7,6 @@ int[] TwoSum(int[] nums, int target)
 
     for (int i = 0; i < nums.Length; i++)
     {
-        if (nums[i] <= target)
-        {
             for (int j = 0; j < nums.Length; j++)
             {
 
@@ -22,7 +20,6 @@ int[] TwoSum(int[] nums, int target)
                 }
 
             }
-        }
     }
 
     return results;
