@@ -1,4 +1,7 @@
-﻿public class Solution : VersionControl
+﻿
+//way too slow
+
+public class Solution : VersionControl
 {
     int index;
     int low = 1;

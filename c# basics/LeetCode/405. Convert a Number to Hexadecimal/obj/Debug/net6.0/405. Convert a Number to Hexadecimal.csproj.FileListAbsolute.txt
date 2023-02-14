@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\bin\Debug\net6.0\405. Convert a Number to Hexadecimal.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\bin\Debug\net6.0\405. Convert a Number to Hexadecimal.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\bin\Debug\net6.0\405. Convert a Number to Hexadecimal.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\bin\Debug\net6.0\405. Convert a Number to Hexadecimal.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\bin\Debug\net6.0\405. Convert a Number to Hexadecimal.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\405. Convert a Number to Hexadecimal.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\405. Convert a Number to Hexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\405. Convert a Number to Hexadecimal.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\405. Convert a Number to Hexadecimal.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\405. Convert a Number to Hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\405. Convert a Number to Hexadecimal.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\refint\405. Convert a Number to Hexadecimal.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\405. Convert a Number to Hexadecimal.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\405. Convert a Number to Hexadecimal.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\405. Convert a Number to Hexadecimal\obj\Debug\net6.0\ref\405. Convert a Number to Hexadecimal.dll
