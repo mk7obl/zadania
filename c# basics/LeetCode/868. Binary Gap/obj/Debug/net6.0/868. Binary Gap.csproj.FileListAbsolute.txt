@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\868. Binary Gap.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\868. Binary Gap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\868. Binary Gap.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\868. Binary Gap.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\868. Binary Gap.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\bin\Debug\net6.0\868. Binary Gap.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\bin\Debug\net6.0\868. Binary Gap.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\bin\Debug\net6.0\868. Binary Gap.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\bin\Debug\net6.0\868. Binary Gap.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\bin\Debug\net6.0\868. Binary Gap.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\868. Binary Gap.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\refint\868. Binary Gap.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\868. Binary Gap.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\868. Binary Gap.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\868. Binary Gap\obj\Debug\net6.0\ref\868. Binary Gap.dll
