@@ -52,7 +52,7 @@ int BinaryGap(int n)
         {
             for (int j = i; j < dec.Length; j++)
             {
-                if (dec[j] == '0')
+                if (dec[j] == '0' || j==0)
                 {
                     distance++;
                 }
