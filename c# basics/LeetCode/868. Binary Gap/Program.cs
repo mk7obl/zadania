@@ -50,21 +50,24 @@ int BinaryGap(int n)
     {
         if (dec[i] == '1')
         {
-            for (int j = i+1; j < dec.Length; j++)
+            for (int j = i; j < dec.Length; j++)
             {
-                if (dec[j+1] == '0')
+                if (dec[j] == '0')
                 {
                     distance++;
                 }
 
-                else if (dec[j] == '1')
+                else if (dec[j] == '1' && j!=i)
                     break;
                 i = j;
             }
         }
+
+        if (distance == dec.Length - 1)
+            distance = 0;
     }
     return distance;
 }
 
-BinaryGap(22);
+BinaryGap(5);
 
