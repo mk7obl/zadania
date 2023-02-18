@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\868. Binary Gap\\868. Binary Gap.csproj",
-      "projectName": "868. Binary Gap",
-      "projectPath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\868. Binary Gap\\868. Binary Gap.csproj",
+      "projectUniqueName": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\mariu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\868. Binary Gap\\obj\\",
+      "outputPath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mariu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
