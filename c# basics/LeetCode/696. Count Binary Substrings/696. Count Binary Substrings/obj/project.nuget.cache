@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fD8RqDI2rmeRkMVTggzVFgb4Xkbbe02R0Be2pElUoZ3K4Xy2cbW0oXztnaGZso7/ezPbtBhL7iE8atGs04yjMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\696. Count Binary Substrings\\696. Count Binary Substrings\\696. Count Binary Substrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
