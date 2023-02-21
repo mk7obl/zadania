@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V5yN1B/Elc8OtsRYraN15DTq3kAC4u9+cF2c7HeLamh155ghBRQYAAq66xsEbwR7ozXy+Z5y9ShWFZH0nz8tiw==",
+  "dgSpecHash": "00HYwmHkwWMMC83tNs26gJKp9mx284iaRVyu7n/O/kYr2fmbyM3MDx3u3WcMP1BJl3ggl1VIHjtOG8iyd2eNmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\696. Count Binary Substrings\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\696. Count Binary Substrings\\696. Count Binary Substrings\\696. Count Binary Substrings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

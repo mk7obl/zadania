@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\696. Count Binary Substrings\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\696. Count Binary Substrings\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\696. Count Binary Substrings\\696. Count Binary Substrings\\696. Count Binary Substrings.csproj",
+      "projectName": "696. Count Binary Substrings",
+      "projectPath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\696. Count Binary Substrings\\696. Count Binary Substrings\\696. Count Binary Substrings.csproj",
       "packagesPath": "C:\\Users\\mariu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\696. Count Binary Substrings\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\mariu\\OneDrive\\Pulpit\\c#\\c# basics\\LeetCode\\696. Count Binary Substrings\\696. Count Binary Substrings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mariu\\AppData\\Roaming\\NuGet\\NuGet.Config",
