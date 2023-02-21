@@ -1,5 +1,0 @@
-C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\696. Count Binary Substrings\obj\Debug\net6.0\696. Count Binary Substrings.csproj.AssemblyReference.cache
-C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\696. Count Binary Substrings\obj\Debug\net6.0\696. Count Binary Substrings.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\696. Count Binary Substrings\obj\Debug\net6.0\696. Count Binary Substrings.AssemblyInfoInputs.cache
-C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\696. Count Binary Substrings\obj\Debug\net6.0\696. Count Binary Substrings.AssemblyInfo.cs
-C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\696. Count Binary Substrings\obj\Debug\net6.0\696. Count Binary Substrings.csproj.CoreCompileInputs.cache
