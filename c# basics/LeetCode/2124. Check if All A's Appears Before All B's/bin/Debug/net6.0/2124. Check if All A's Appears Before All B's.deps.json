@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2124. Check if All A's Appears Before All B's/1.0.0": {
+        "runtime": {
+          "2124. Check if All A's Appears Before All B's.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2124. Check if All A's Appears Before All B's/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

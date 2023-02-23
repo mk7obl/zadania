@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\bin\Debug\net6.0\2124. Check if All A's Appears Before All B's.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\bin\Debug\net6.0\2124. Check if All A's Appears Before All B's.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\bin\Debug\net6.0\2124. Check if All A's Appears Before All B's.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\bin\Debug\net6.0\2124. Check if All A's Appears Before All B's.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\bin\Debug\net6.0\2124. Check if All A's Appears Before All B's.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\2124. Check if All A's Appears Before All B's.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\2124. Check if All A's Appears Before All B's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\2124. Check if All A's Appears Before All B's.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\2124. Check if All A's Appears Before All B's.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\2124. Check if All A's Appears Before All B's.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\2124. Check if All A's Appears Before All B's.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\refint\2124. Check if All A's Appears Before All B's.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\2124. Check if All A's Appears Before All B's.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\2124. Check if All A's Appears Before All B's.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2124. Check if All A's Appears Before All B's\obj\Debug\net6.0\ref\2124. Check if All A's Appears Before All B's.dll

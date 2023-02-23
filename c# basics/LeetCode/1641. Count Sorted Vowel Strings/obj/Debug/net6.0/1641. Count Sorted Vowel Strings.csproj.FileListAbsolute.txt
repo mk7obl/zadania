@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\bin\Debug\net6.0\1641. Count Sorted Vowel Strings.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\bin\Debug\net6.0\1641. Count Sorted Vowel Strings.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\bin\Debug\net6.0\1641. Count Sorted Vowel Strings.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\bin\Debug\net6.0\1641. Count Sorted Vowel Strings.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\bin\Debug\net6.0\1641. Count Sorted Vowel Strings.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\1641. Count Sorted Vowel Strings.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\1641. Count Sorted Vowel Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\1641. Count Sorted Vowel Strings.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\1641. Count Sorted Vowel Strings.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\1641. Count Sorted Vowel Strings.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\1641. Count Sorted Vowel Strings.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\refint\1641. Count Sorted Vowel Strings.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\1641. Count Sorted Vowel Strings.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\1641. Count Sorted Vowel Strings.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\1641. Count Sorted Vowel Strings\obj\Debug\net6.0\ref\1641. Count Sorted Vowel Strings.dll
