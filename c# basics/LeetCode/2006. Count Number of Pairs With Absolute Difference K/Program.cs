@@ -10,27 +10,27 @@
 
 
 /// <summary>
-/// mem 92.41, runtime 11.72 :(
+/// mem 92.41, runtime 26 :(
 /// </summary>
-//public class Solution
-//{
-//    public int CountKDifference(int[] nums, int k)
-//    {
+public class Solution
+{
+    public int CountKDifference(int[] nums, int k)
+    {
 
-//        int size = nums.Length;
-//        int count = 0;
+        int size = nums.Length;
+        int count = 0;
 
-//        for (int i=0; i<size;i++)
-//        {
-//            for(int j=0;j<size;j++)
-//            {
-//                if (nums[i] - nums[j] ==k)
-//                    count++;
-//            }
-//        }
+        for (int i = 0; i < size; i++)
+        {
+            for (int j = 0; j < size; j++)
+            {
+                if (nums[i] - nums[j] == k)
+                    count++;
+            }
+        }
 
-//        return count;
-//    }
-//}
+        return count;
+    }
+}
 
 
