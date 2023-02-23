@@ -5,7 +5,7 @@
 
 //A string s is lexicographically sorted if for all valid i, s[i] is the same as or comes before s[i+1] in the alphabet.
 
-
+//doesnt work for n>2
 int CountVowelStrings(int n)
 {
 
