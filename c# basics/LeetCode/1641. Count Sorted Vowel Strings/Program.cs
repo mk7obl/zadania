@@ -55,9 +55,8 @@
 int CountVowelStrings(int n)
 {
     int result = 0;
-
     result = (n + 4) * (n + 3) * (n + 2) * (n + 1) / 24;
-    Console.WriteLine(result);
+
     return result;
 }
 
