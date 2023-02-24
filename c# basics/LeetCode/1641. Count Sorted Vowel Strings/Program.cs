@@ -6,54 +6,59 @@
 //A string s is lexicographically sorted if for all valid i, s[i] is the same as or comes before s[i+1] in the alphabet.
 
 //doesnt work for n>2
+//int CountVowelStrings(int n)
+//{
+
+//    Dictionary<int, string> dict = new Dictionary<int, string>()
+//    {
+//        {0, "a"},
+//        {1, "e"},
+//        {2, "i"},
+//        {3, "o"},
+//        {4, "u"}
+//    };
+
+//    string result = "";
+//    int count = 0;
+
+//    if (n == 1)
+//        return dict.Count;
+
+//    for (int i = 0; i < dict.Count; i++)
+//    {
+//        result = dict[i];
+
+//        for (int j = i; j < dict.Count; j++)
+//        {
+//            if (result.Length != n)
+//            {
+//                result += dict[i]+ dict[j];
+//            }
+
+//            if (result.Length== n)
+//            {
+//                count++;
+//                Console.WriteLine(result);
+//                result = dict[i];
+//            }
+
+//        }
+//    }
+
+//    Console.WriteLine(count);
+//    return count;
+//}
+
+//CountVowelStrings(3);
+
+// pure math
 int CountVowelStrings(int n)
 {
+    int result = 0;
 
-    Dictionary<int, string> dict = new Dictionary<int, string>()
-    {
-        {0, "a"},
-        {1, "e"},
-        {2, "i"},
-        {3, "o"},
-        {4, "u"}
-    };
-
-    string result = "";
-    int count = 0;
-
-    if (n == 1)
-        return dict.Count;
-
-    for (int i = 0; i < dict.Count; i++)
-    {
-        for (int j = i; j < dict.Count; j++)
-        {
-            if (n==2)
-                result = dict[i] + dict[j];
-
-            for(int k= j; k < dict.Count;k++)
-            {
-                result += dict[k];
-
-                
-                if (result.Length==n)
-                {
-                    Console.WriteLine(result);
-                    count++;
-                    break; 
-                }
-
-                if (k == dict.Count)
-                    k = 0;
-            }
-
-        }
-    }
-
-    Console.WriteLine(count);
-    return count;
+    result = (n + 4) * (n + 3) * (n + 2) * (n + 1) / 24;
+    Console.WriteLine(result);
+    return result;
 }
 
-CountVowelStrings(3);
-
-
+CountVowelStrings(33);
