@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\bin\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\bin\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\bin\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\bin\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\bin\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\refint\2144. Minimum Cost of Buying Candies With Discount.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\2144. Minimum Cost of Buying Candies With Discount.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\2144. Minimum Cost of Buying Candies With Discount\obj\Debug\net6.0\ref\2144. Minimum Cost of Buying Candies With Discount.dll

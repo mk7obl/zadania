@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2144. Minimum Cost of Buying Candies With Discount/1.0.0": {
+        "runtime": {
+          "2144. Minimum Cost of Buying Candies With Discount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2144. Minimum Cost of Buying Candies With Discount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
