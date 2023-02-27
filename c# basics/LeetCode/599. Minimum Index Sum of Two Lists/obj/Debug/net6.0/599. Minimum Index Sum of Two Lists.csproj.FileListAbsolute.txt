@@ -1,0 +1,15 @@
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\bin\Debug\net6.0\599. Minimum Index Sum of Two Lists.exe
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\bin\Debug\net6.0\599. Minimum Index Sum of Two Lists.deps.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\bin\Debug\net6.0\599. Minimum Index Sum of Two Lists.runtimeconfig.json
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\bin\Debug\net6.0\599. Minimum Index Sum of Two Lists.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\bin\Debug\net6.0\599. Minimum Index Sum of Two Lists.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\599. Minimum Index Sum of Two Lists.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\599. Minimum Index Sum of Two Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\599. Minimum Index Sum of Two Lists.AssemblyInfoInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\599. Minimum Index Sum of Two Lists.AssemblyInfo.cs
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\599. Minimum Index Sum of Two Lists.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\599. Minimum Index Sum of Two Lists.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\refint\599. Minimum Index Sum of Two Lists.dll
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\599. Minimum Index Sum of Two Lists.pdb
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\599. Minimum Index Sum of Two Lists.genruntimeconfig.cache
+C:\Users\mariu\OneDrive\Pulpit\c#\c# basics\LeetCode\599. Minimum Index Sum of Two Lists\obj\Debug\net6.0\ref\599. Minimum Index Sum of Two Lists.dll
